@@ -3,4 +3,3 @@
 
 
 * telegram.js
-* text.js
